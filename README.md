@@ -83,9 +83,13 @@ Improve visualization with charts for skill gaps.
 Extend support to resume templates in multiple formats
 
 ## Author
-Aliya Nishath
+Aliya Nishath (Cipher)
+partcipating as solo
+College : COORG INSTITUTE OF TECHNOLOGY
 Cybersecurity Trainee & Internship Aspirant
 Email: aalianishath1005@gmail.com
+Phn no.: 8496001161
+passout year : 2027
 
 
 
