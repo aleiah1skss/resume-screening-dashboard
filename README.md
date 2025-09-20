@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Automated Resume Relevance Check System
 
 
@@ -38,3 +39,7 @@ Streamlit app for placement teams to evaluate resumes against job descriptions.
 
 
 
+=======
+# resume-screening-dashboard
+Streamlit web app for automated resume–job description matching (Hackathon project)
+>>>>>>> 25f95c872e30763be3d3fd54d3bfd993add85f41
