@@ -72,8 +72,8 @@ streamlit run resume_dashboard.py
    Verdict (High/Medium/Low)
 ° Download results as CSV for record keeping.
 
-Demo / Live App
-https://resume-screening-dashboard.streamlit.app/
+🔗Demo / Live App
+[https://resume-screening-dashboard.streamlit.app/](https://resume-screening-dashboard.streamlit.app/)
 
 ## Future Improvements
 
