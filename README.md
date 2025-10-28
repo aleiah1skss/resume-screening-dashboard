@@ -73,7 +73,7 @@ streamlit run resume_dashboard.py
 ° Download results as CSV for record keeping.
 
 🔗Demo / Live App
-[https://resume-screening-dashboard.streamlit.app/](https://resume-screening-dashboard.streamlit.app/)
+(https://resume-screening-dashboard.streamlit.app/)
 
 ## Future Improvements
 
